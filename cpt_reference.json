@@ -1,0 +1,150 @@
+{
+  "Evaluation_Management": {
+    "Established_Patients": {
+      "99211": "Office Visit, Est Pt., Level 1",
+      "99212": "Office Visit, Est Pt., Level 2",
+      "99213": "Office Visit, Est Pt., Level 3",
+      "99214": "Office Visit, Est Pt., Level 4",
+      "99215": "Office Visit, Est Pt., Level 5"
+    },
+    "New_Patients": {
+      "99201": "Office Visit, New Pt., Level 1",
+      "99202": "Office Visit, New Pt., Level 2",
+      "99203": "Office Visit, New Pt., Level 3",
+      "99204": "Office Visit, New Pt., Level 4"
+    }
+  },
+
+  "Preventive_Medicine": {
+    "Established_Patients": {
+      "99391": "Preventive Care Est. Pt. Age <1",
+      "99392": "Preventive Care Est. Pt. Age 1-4",
+      "99393": "Preventive Care Est. Pt. Age 5-11",
+      "99394": "Preventive Care Est. Pt. Age 12-17",
+      "99395": "Preventive Care Est. Pt. Age 18-39"
+    },
+    "New_Patients": {
+      "99381": "Preventive Care New Pt. Age <1",
+      "99382": "Preventive Care New Pt. Age 1-4",
+      "99383": "Preventive Care New Pt. Age 5-11",
+      "99384": "Preventive Care New Pt. Age 12-17",
+      "99385": "Preventive Care New Pt. Age 18-39"
+    },
+    "Other": {
+      "99429": "Unlisted Preventive Service"
+    }
+  },
+
+  "Immunization_Products": {
+    "Influenza": {
+      "90655": "Influenza (split), preservative free, 6-35 months",
+      "90656": "Influenza vaccine, no preservative, ≥3 yrs",
+      "90657": "Influenza vaccine, 6–35 months",
+      "90658": "Influenza vaccine",
+      "90661": "Flu vaccine, cell culture, preservative free",
+      "90672": "Flu vaccine, 4-valent, nasal",
+      "90686": "Flu vaccine, no preservative, 4-valent, ≥3 yrs"
+    },
+    "Pneumococcal": {
+      "90670": "PCV13, Pneumococcal conjugate",
+      "90671": "PCV15, Pneumococcal conjugate",
+      "90677": "PCV20, Pneumococcal conjugate",
+      "90732": "Pneumococcal polysaccharide PPV23"
+    },
+    "DTaP_Tdap": {
+      "90700": "DTaP vaccine, 3 comp",
+      "90715": "Tdap vaccine >7 yrs, 3 comp",
+      "90696": "DTaP-IPV vaccine, 4-6 yrs, 4 comp",
+      "90697": "DTaP-IPV-Hib-HepB, IM",
+      "90698": "DTaP-Hib-IPV combo, IM"
+    },
+    "Rotavirus": {
+      "90680": "Rotavirus, 1 comp"
+    },
+    "Hib": {
+      "90648": "Hib vaccine, PRP-T, IM"
+    },
+    "Polio": {
+      "90713": "IPV, Poliovirus, SC"
+    },
+    "Hepatitis": {
+      "90744": "Hep B, adolescent/pediatric",
+      "90633": "Hep A, pediatric/adolescent, 2-dose",
+      "90632": "Hep A, adult"
+    },
+    "HPV": {
+      "90649": "HPV vaccine, 3-dose, IM",
+      "90651": "HPV9 vaccine"
+    },
+    "Meningococcal": {
+      "90619": "MenACWY-TT vaccine",
+      "90620": "Bexsero, MenB vaccine",
+      "90621": "MenB RLP vaccine",
+      "90734": "Meningococcal MCV4O, 1 comp"
+    },
+    "MMR_Varicella": {
+      "90707": "MMR vaccine, 3 comp",
+      "90710": "MMRV vaccine, SC, 4 comp",
+      "90716": "Varicella vaccine"
+    },
+    "Other": {
+      "90380": "RSV monoclonal antibody, seasonal",
+      "99188": "Topical fluoride varnish"
+    }
+  },
+
+  "Immunization_Administration": {
+    "90460": "Admin, 1st vaccine/toxoid, with counseling",
+    "90461": "Admin, each additional vaccine/toxoid, with counseling",
+    "90471": "Immunization admin, 1st vaccine",
+    "90472": "Immunization admin, each additional",
+    "90474": "Oral/nasal vaccine admin, additional"
+  },
+
+  "Screenings_Assessments": {
+    "96110": "Developmental test, limited",
+    "96160": "Patient-focused health risk assessment",
+    "G8431": "Depression screening documented",
+    "G9902": "Tobacco screening, identified as user",
+    "G9903": "Tobacco screening, identified as non-user"
+  },
+
+  "Diagnostics_Labs": {
+    "87880": "Strep A assay w/ optic",
+    "87804": "Influenza assay w/ optic",
+    "87807": "RSV assay w/ optic",
+    "81002": "Urinalysis, without microscopy",
+    "81003": "Urinalysis, auto, w/o scope",
+    "81025": "Urine pregnancy test",
+    "86580": "TB intradermal test",
+    "94761": "Blood oxygen measurement"
+  },
+
+  "Procedures_Treatments": {
+    "94640": "Nebulizer/MDI treatment, initial",
+    "96372": "Therapeutic/diagnostic injection, SC/IM",
+    "69209": "Remove impacted ear wax, unilateral",
+    "69210": "Ear irrigation/lavage",
+    "17250": "Chemical cautery of tissue",
+    "15851": "Removal of sutures"
+  },
+
+  "Medications_Injections": {
+    "J0696": "IM Rocephin, 500mg",
+    "J1100": "Injection, dexamethasone sodium phosphate, 1mg",
+    "J7510": "Prednisolone oral, per 5mg"
+  },
+
+  "Nutrition_Counseling": {
+    "S9470": "Nutritional counseling, dietitian visit",
+    "97802": "Medical nutrition therapy, individual, initial",
+    "97803": "Medical nutrition therapy, individual, subsequent",
+    "97804": "Medical nutrition therapy, group"
+  },
+
+  "Administrative_Misc": {
+    "99051": "Medical services, evening/weekend/holiday",
+    "S9981": "Medical records copying fee, admin",
+    "S9982": "Medical records copying fee, per page"
+  }
+}
