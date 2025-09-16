@@ -1,20 +1,4 @@
 {
-  "Evaluation_Management": {
-    "Established_Patients": {
-      "99211": "Office Visit, Est Pt., Level 1",
-      "99212": "Office Visit, Est Pt., Level 2",
-      "99213": "Office Visit, Est Pt., Level 3",
-      "99214": "Office Visit, Est Pt., Level 4",
-      "99215": "Office Visit, Est Pt., Level 5"
-    },
-    "New_Patients": {
-      "99201": "Office Visit, New Pt., Level 1",
-      "99202": "Office Visit, New Pt., Level 2",
-      "99203": "Office Visit, New Pt., Level 3",
-      "99204": "Office Visit, New Pt., Level 4"
-    }
-  },
-
   "Preventive_Medicine": {
     "Established_Patients": {
       "99391": "Preventive Care Est. Pt. Age <1",
